@@ -1,0 +1,7 @@
+/**
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Objetivo: Primera Practica\nIntegrantes: Javier Agustin Aguila, Jareth Viveros Hernandez, Jose de Jesus Perez Delgado\n Hola Mundo");
+
+    }
+}
